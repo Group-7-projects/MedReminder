@@ -63,12 +63,5 @@ Allow users to mark medicine as taken or missed
 
 Store data locally
 
-7. Non-Functional Requirements
 
-The app should be easy to use
 
-Notifications should be timely and reliable
-
-The app should work without internet access
-
-User data should be stored securely
