@@ -1,142 +1,74 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Project Design Report - Medication Reminder App</title>
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            line-height: 1.6;
-            margin: 40px;
-            background-color: #ffffff;
-            color: #000000;
-        }
-        h1, h2, h3 {
-            color: #1f2d3d;
-        }
-        h1 {
-            text-align: center;
-            text-transform: uppercase;
-        }
-        h2 {
-            border-bottom: 1px solid #ccc;
-            padding-bottom: 5px;
-            margin-top: 30px;
-        }
-        ul, ol {
-            margin-left: 25px;
-        }
-        p {
-            text-align: justify;
-        }
-        .section {
-            margin-bottom: 25px;
-        }
-    </style>
-</head>
-<body>
+1. Introduction
 
-    <h1>Project Design Report (PDR)</h1>
-    <h3 style="text-align:center;">Medication Reminder Mobile Application</h3>
+Medication non-adherence is a common problem affecting many patients, especially those managing chronic conditions or multiple prescriptions. People often forget to take their medicine on time or take the wrong dosage. Mobile applications provide a practical way to support users through reminders and simple tracking.
 
-    <div class="section">
-        <h2>1. Introduction</h2>
-        <p>
-            Medication non-adherence is a common problem affecting many people, especially
-            those taking multiple medicines or managing chronic illnesses. Forgetting to
-            take medicine at the right time can lead to health complications.
-        </p>
-        <p>
-            This project focuses on developing a medication reminder mobile application
-            that helps users remember when and which medicine to take using scheduled
-            reminders.
-        </p>
-    </div>
+This project focuses on designing a medication reminder mobile application that helps users remember when and which medicine to take.
 
-    <div class="section">
-        <h2>2. Problem Statement</h2>
-        <p>
-            Many patients miss their medication doses due to forgetfulness, busy schedules,
-            or lack of proper organization. Some existing solutions are complex or require
-            constant internet access, making them unsuitable for all users.
-        </p>
-    </div>
+2. Problem Statement
 
-    <div class="section">
-        <h2>3. Objectives of the Project</h2>
+Many patients miss medication doses due to forgetfulness, busy schedules, or poor organization. Some existing reminder solutions are too complex or require constant internet access, making them unsuitable for all users. There is a need for a simple, reliable, and offline-capable medication reminder application.
 
-        <h3>Main Objective</h3>
-        <p>
-            To develop a mobile application that reminds users to take their medication
-            at the correct time.
-        </p>
+3. Objectives of the Project
+Main Objective
 
-        <h3>Specific Objectives</h3>
-        <ul>
-            <li>Allow users to add and manage medicine details</li>
-            <li>Enable users to schedule reminder times</li>
-            <li>Send notifications when it is time to take medicine</li>
-            <li>Track taken and missed doses</li>
-            <li>Ensure the application works offline</li>
-        </ul>
-    </div>
+To develop a mobile application that reminds users to take their medication at the correct time.
 
-    <div class="section">
-        <h2>4. Scope of the Project</h2>
-        <p>The project includes:</p>
-        <ul>
-            <li>An Android application developed using Kotlin</li>
-            <li>Local storage of medication data</li>
-            <li>Reminder notifications</li>
-            <li>Basic medication history tracking</li>
-        </ul>
+Specific Objectives
 
-        <p>The project does not include:</p>
-        <ul>
-            <li>Online database synchronization</li>
-            <li>Integration with healthcare providers</li>
-        </ul>
-    </div>
+Allow users to add and manage medicine details
 
-    <div class="section">
-        <h2>5. System Overview</h2>
-        <p>
-            The system consists of a user interface for managing medicines and reminders,
-            reminder scheduling logic, and local data storage to save medication details
-            and history.
-        </p>
-    </div>
+Schedule reminders for different medicines
 
-    <div class="section">
-        <h2>6. Functional Requirements</h2>
-        <ol>
-            <li>The system shall allow users to add, edit, and delete medicines</li>
-            <li>The system shall allow users to set reminder times</li>
-            <li>The system shall send notification alerts</li>
-            <li>The system shall allow users to mark medicines as taken or missed</li>
-            <li>The system shall store data locally</li>
-        </ol>
-    </div>
+Notify users at the correct time
 
-    <div class="section">
-        <h2>7. Non-Functional Requirements</h2>
-        <ul>
-            <li>The application should be easy to use</li>
-            <li>Notifications should be reliable and timely</li>
-            <li>The application should function without internet access</li>
-            <li>User data should be stored securely on the device</li>
-        </ul>
-    </div>
+Track taken and missed doses
 
-    <div class="section">
-        <h2>8. Conclusion</h2>
-        <p>
-            The medication reminder mobile application aims to help users manage their
-            medication effectively through reminders and basic tracking. The system
-            focuses on simplicity, reliability, and offline functionality to support
-            better medication adherence.
-        </p>
-    </div>
+Ensure the app works offline
 
-</body>
-</html>
+4. Scope of the Project
+
+The project includes:
+
+An Android application developed using Kotlin
+
+Local storage of medication data
+
+Reminder notifications
+
+Basic medication history tracking
+
+The project does not include online databases or integration with healthcare providers.
+
+5. System Overview
+
+The system consists of:
+
+A user interface for managing medicines and reminders
+
+Reminder logic for scheduling notifications
+
+Local data storage for medicines and history
+
+6. Functional Requirements
+
+The system shall:
+
+Allow users to add, edit, and delete medicines
+
+Allow users to set reminder times
+
+Send notification alerts
+
+Allow users to mark medicine as taken or missed
+
+Store data locally
+
+7. Non-Functional Requirements
+
+The app should be easy to use
+
+Notifications should be timely and reliable
+
+The app should work without internet access
+
+User data should be stored securely
