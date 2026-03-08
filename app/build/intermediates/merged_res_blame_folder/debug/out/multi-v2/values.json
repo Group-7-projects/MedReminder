@@ -23,6 +23,25 @@
                     }
                 },
                 {
+                    "source": "/home/tee/MedReminder/app/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "269"
+                    },
+                    "to": {
+                        "startLines": "210",
+                        "startColumns": "4",
+                        "startOffsets": "13148",
+                        "endLines": "213",
+                        "endColumns": "12",
+                        "endOffsets": "13362"
+                    }
+                },
+                {
                     "source": "/home/tee/.gradle/caches/9.0-milestone-1/transforms/efcee71ec50d3722ed19a22144f3d1b8/transformed/startup-runtime-1.1.1/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -146,6 +165,23 @@
                     }
                 },
                 {
+                    "source": "/home/tee/MedReminder/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "103",
+                        "startColumns": "4",
+                        "startOffsets": "6259",
+                        "endColumns": "46",
+                        "endOffsets": "6301"
+                    }
+                },
+                {
                     "source": "/home/tee/.gradle/caches/9.0-milestone-1/transforms/b0bcf5e3a3a153b3db07148e6523ffc2/transformed/navigation-common-2.7.5/res/values/values.xml",
                     "from": {
                         "startLines": "2,15,21,27,30",
@@ -217,42 +253,6 @@
                         "startOffsets": "5885",
                         "endColumns": "53",
                         "endOffsets": "5934"
-                    }
-                },
-                {
-                    "source": "/home/tee/Downloads/mytherapy-compose/app/src/main/res/values/themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "269"
-                    },
-                    "to": {
-                        "startLines": "210",
-                        "startColumns": "4",
-                        "startOffsets": "13148",
-                        "endLines": "213",
-                        "endColumns": "12",
-                        "endOffsets": "13362"
-                    }
-                },
-                {
-                    "source": "/home/tee/Downloads/mytherapy-compose/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "46",
-                        "endOffsets": "97"
-                    },
-                    "to": {
-                        "startLines": "103",
-                        "startColumns": "4",
-                        "startOffsets": "6259",
-                        "endColumns": "46",
-                        "endOffsets": "6301"
                     }
                 }
             ]

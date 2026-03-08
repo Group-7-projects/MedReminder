@@ -51,9 +51,9 @@ com.example.mytherapy.app-navigation-common-ktx-2.7.5-49 /home/tee/.gradle/cache
 com.example.mytherapy.app-runtime-saveable-release-50 /home/tee/.gradle/caches/9.0-milestone-1/transforms/f7c8d4658efcad77c2546b3d1f3cb59c/transformed/runtime-saveable-release/res
 com.example.mytherapy.app-animation-core-release-51 /home/tee/.gradle/caches/9.0-milestone-1/transforms/f88a84ec3ce1b6fe9f5b70b4e27c4817/transformed/animation-core-release/res
 com.example.mytherapy.app-emoji2-1.4.0-52 /home/tee/.gradle/caches/9.0-milestone-1/transforms/fee2488c23dfc8552c68b4a7f1644f4d/transformed/emoji2-1.4.0/res
-com.example.mytherapy.app-resValues-53 /home/tee/Downloads/mytherapy-compose/app/build/generated/res/resValues/debug
-com.example.mytherapy.app-packageDebugResources-54 /home/tee/Downloads/mytherapy-compose/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.mytherapy.app-packageDebugResources-55 /home/tee/Downloads/mytherapy-compose/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.mytherapy.app-merged_res-56 /home/tee/Downloads/mytherapy-compose/app/build/intermediates/merged_res/debug
-com.example.mytherapy.app-debug-57 /home/tee/Downloads/mytherapy-compose/app/src/debug/res
-com.example.mytherapy.app-main-58 /home/tee/Downloads/mytherapy-compose/app/src/main/res
+com.example.mytherapy.app-resValues-53 /home/tee/MedReminder/app/build/generated/res/resValues/debug
+com.example.mytherapy.app-packageDebugResources-54 /home/tee/MedReminder/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.mytherapy.app-packageDebugResources-55 /home/tee/MedReminder/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.mytherapy.app-merged_res-56 /home/tee/MedReminder/app/build/intermediates/merged_res/debug
+com.example.mytherapy.app-debug-57 /home/tee/MedReminder/app/src/debug/res
+com.example.mytherapy.app-main-58 /home/tee/MedReminder/app/src/main/res

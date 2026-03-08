@@ -1,15 +1,15 @@
-#Thu Feb 26 15:12:22 EAT 2026
-base.0=/home/tee/Downloads/mytherapy-compose/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/home/tee/Downloads/mytherapy-compose/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.10=/home/tee/Downloads/mytherapy-compose/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
-base.2=/home/tee/Downloads/mytherapy-compose/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
-base.3=/home/tee/Downloads/mytherapy-compose/app/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
-base.4=/home/tee/Downloads/mytherapy-compose/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
-base.5=/home/tee/Downloads/mytherapy-compose/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
-base.6=/home/tee/Downloads/mytherapy-compose/app/build/intermediates/dex/debug/mergeProjectDexDebug/15/classes.dex
-base.7=/home/tee/Downloads/mytherapy-compose/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
-base.8=/home/tee/Downloads/mytherapy-compose/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
-base.9=/home/tee/Downloads/mytherapy-compose/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
+#Wed Mar 04 17:20:33 EAT 2026
+base.0=/home/tee/MedReminder/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/home/tee/MedReminder/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.10=/home/tee/MedReminder/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+base.2=/home/tee/MedReminder/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.3=/home/tee/MedReminder/app/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
+base.4=/home/tee/MedReminder/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
+base.5=/home/tee/MedReminder/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
+base.6=/home/tee/MedReminder/app/build/intermediates/dex/debug/mergeProjectDexDebug/15/classes.dex
+base.7=/home/tee/MedReminder/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
+base.8=/home/tee/MedReminder/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
+base.9=/home/tee/MedReminder/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.10=classes2.dex
